@@ -26,8 +26,8 @@ http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd">
       <property name="username" value="root"/>
       <property name="password" value="H@ppy123"/> -->    
  <property name="url" value="jdbc:mysql://my-lib-db-instance.cw8iwbmywvtq.us-west-2.rds.amazonaws.com:3306/librarysystem"/>
-<property name="username" value="rahulsaraf1489"/>
-      <property name="password" value="Happy123"/>
+<property name="username" value="*********"/>
+      <property name="password" value="*********"/>
    </bean>
 
    <!-- Definition for DBConnector bean -->
