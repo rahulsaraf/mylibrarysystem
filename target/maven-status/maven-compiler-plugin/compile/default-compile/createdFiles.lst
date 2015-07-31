@@ -1,0 +1,14 @@
+com\utdallas\cs6360\project1\librarysystem\ManageUserService.class
+com\utdallas\cs6360\project1\librarysystem\ManageBookService.class
+com\utdallas\cs6360\project1\librarysystem\ManageUserController.class
+com\utdallas\cs6360\project1\librarysystem\User.class
+com\utdallas\cs6360\project1\librarysystem\Book.class
+com\utdallas\cs6360\project1\librarysystem\BookLoan.class
+com\utdallas\cs6360\project1\librarysystem\ManageBookController.class
+com\utdallas\cs6360\project1\librarysystem\ManageBookDao.class
+com\utdallas\cs6360\project1\librarysystem\WelcomeController.class
+com\utdallas\cs6360\project1\librarysystem\ManageUserDao.class
+com\utdallas\cs6360\project1\librarysystem\UserMapper.class
+com\utdallas\cs6360\project1\librarysystem\BookMapper.class
+com\utdallas\cs6360\project1\librarysystem\BookLoanMapper.class
+com\utdallas\cs6360\project1\librarysystem\DBConnector.class
